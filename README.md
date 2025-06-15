@@ -1,7 +1,7 @@
 # Big-Data DSML Project 2025, Chrysovalanti Lymperi (03400257)
 
 ## Overview  
-This repository contains the full Spark workflows developed for the “Big-Data” course project (NTUA Data Science and Machine Learning MSc., Spring emester 2025). 
+This repository contains the full Spark workflows developed for the “Big-Data” course project (NTUA Data Science and Machine Learning MSc., Spring Semester 2025). 
 Four analytical queries are implemented, each in multiple styles (DataFrame, SQL, RDD), together with scaling experiments that measure execution time under different executor configurations.
 
 ## Repository structure  
