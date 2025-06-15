@@ -9,10 +9,7 @@ Four analytical queries are implemented, each in multiple styles (DataFrame, SQL
 `query2_df*.py`, `query2_sql.py`, `query2_rdd.py` Top-3 divisions per year by closed-case rate  
 `query3_df*.py`, `query3_rdd.py` Median income per capita by ZIP code  
 `query4_df.py` Weapon-related incidents and average distance to the nearest police division  
-`results/` CSV outputs produced by Spark  
-`logs/` Spark event logs for replay in the History Server  
-`figures/` Execution-time bar charts used in the report  
-`report.tex` LaTeX report delivered for assessment
+`report.pdf`  report delivered for assessment
 
 ## Datasets (HDFS)  
 Crime reports 2010-2019 `hdfs://hdfs-namenode:9000/user/root/data/LA_Crime_Data_2010_2019.csv`  
